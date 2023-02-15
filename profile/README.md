@@ -1,4 +1,4 @@
-## Human-centered ÖPNV-Navigation für nicht-neurotypische Personen
+## ÖPNV-Navigation für nicht-neurotypische Personen
 
 im Rahmen der Module
 
@@ -8,12 +8,7 @@ Schwerpunkt Human-Computer Interaction \
 Technische Hochschule Köln \
 Campus Gummersbach
 
-### Team-Mitglieder
-- Lining Bao
-- Finn Gedrath
-- Katrin Hartz
-- Ali Obaidi
-- Leonard Pelzer
+- [Projekt 1](https://github.com/neuro-inclusive-transit/vision-concept)
 
 ### Project-Owner
 
