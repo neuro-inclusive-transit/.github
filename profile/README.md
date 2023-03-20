@@ -10,6 +10,8 @@ Campus Gummersbach
 
 - [Projekt 1](https://github.com/neuro-inclusive-transit/vision-concept)
 
+- [Projektmanagement Board](https://github.com/orgs/neuro-inclusive-transit/projects/1)
+
 ### Project-Owner
 
 - Prof. Dr. Gerhard Hartmann
